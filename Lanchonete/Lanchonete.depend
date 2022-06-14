@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655163746 source:c:\users\igor rafael\desktop\c++\funcoes\lanchonete\main.cpp
+	<iostream>
+	<locale>
+
